@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.LEGO.Minifig", "Unity.LEGO.Minifig.csproj", "{888c33ea-3b15-31b1-adf3-fb0de877dad2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.LEGO.Behaviours", "Unity.LEGO.Behaviours.csproj", "{2b0efe9d-bf9c-9e19-b467-2138f494d5fa}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.LEGO.Game", "Unity.LEGO.Game.csproj", "{fb8414b7-c489-46d2-e007-a6493bf73ccd}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.LEGO.UI", "Unity.LEGO.UI.csproj", "{c583aa20-50cb-f2ca-fd5a-98fc3a892fef}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{49886624-e880-f1df-9887-1ae079ef00f3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.LEGO.Utilities", "Unity.LEGO.Utilities.csproj", "{fae6398e-0649-49b2-efb1-b12c3db9ca32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.LEGO.Gameplay", "Unity.LEGO.Gameplay.csproj", "{377283b3-63a3-29fd-7538-7a4aacbfdcfd}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.LEGO.Editor", "Unity.LEGO.Editor.csproj", "{445679d5-cdb7-0b57-84cf-a2802d485282}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.LEGO.Tutorials", "Unity.LEGO.Tutorials.csproj", "{3ff86d4e-719c-ea82-a348-5192bf22b1b7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{888c33ea-3b15-31b1-adf3-fb0de877dad2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{888c33ea-3b15-31b1-adf3-fb0de877dad2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2b0efe9d-bf9c-9e19-b467-2138f494d5fa}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2b0efe9d-bf9c-9e19-b467-2138f494d5fa}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{fb8414b7-c489-46d2-e007-a6493bf73ccd}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{fb8414b7-c489-46d2-e007-a6493bf73ccd}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{c583aa20-50cb-f2ca-fd5a-98fc3a892fef}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c583aa20-50cb-f2ca-fd5a-98fc3a892fef}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49886624-e880-f1df-9887-1ae079ef00f3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49886624-e880-f1df-9887-1ae079ef00f3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{fae6398e-0649-49b2-efb1-b12c3db9ca32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{fae6398e-0649-49b2-efb1-b12c3db9ca32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{377283b3-63a3-29fd-7538-7a4aacbfdcfd}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{377283b3-63a3-29fd-7538-7a4aacbfdcfd}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{445679d5-cdb7-0b57-84cf-a2802d485282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{445679d5-cdb7-0b57-84cf-a2802d485282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ff86d4e-719c-ea82-a348-5192bf22b1b7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ff86d4e-719c-ea82-a348-5192bf22b1b7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
